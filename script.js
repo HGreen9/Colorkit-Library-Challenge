@@ -1,5 +1,5 @@
 // website loaded?
-console.log("👍 Okay");
+// console.log("👍 Okay");
 
 console.log(colorkit);
 
